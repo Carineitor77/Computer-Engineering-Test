@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Computer-Engineering-Test/static/css/main.073c9b0a.css",
-    "main.js": "/Computer-Engineering-Test/static/js/main.5b94a018.js",
+    "main.js": "/Computer-Engineering-Test/static/js/main.67beaeff.js",
     "index.html": "/Computer-Engineering-Test/index.html",
     "main.073c9b0a.css.map": "/Computer-Engineering-Test/static/css/main.073c9b0a.css.map",
-    "main.5b94a018.js.map": "/Computer-Engineering-Test/static/js/main.5b94a018.js.map"
+    "main.67beaeff.js.map": "/Computer-Engineering-Test/static/js/main.67beaeff.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5b94a018.js"
+    "static/js/main.67beaeff.js"
   ]
 }
