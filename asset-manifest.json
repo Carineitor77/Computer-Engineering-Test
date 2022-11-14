@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Computer-Engineering-Test/static/css/main.073c9b0a.css",
-    "main.js": "/Computer-Engineering-Test/static/js/main.8da37da6.js",
+    "main.js": "/Computer-Engineering-Test/static/js/main.092e6c14.js",
     "static/media/task16.png": "/Computer-Engineering-Test/static/media/task16.5b704608334becf2ddd4.png",
     "static/media/task13.png": "/Computer-Engineering-Test/static/media/task13.5a14d9568e2b80f5be70.png",
     "static/media/task15.png": "/Computer-Engineering-Test/static/media/task15.12fd8dc185f25d65ebb5.png",
@@ -20,10 +20,10 @@
     "static/media/task2.png": "/Computer-Engineering-Test/static/media/task2.0b37fd135a31c8d00f6b.png",
     "index.html": "/Computer-Engineering-Test/index.html",
     "main.073c9b0a.css.map": "/Computer-Engineering-Test/static/css/main.073c9b0a.css.map",
-    "main.8da37da6.js.map": "/Computer-Engineering-Test/static/js/main.8da37da6.js.map"
+    "main.092e6c14.js.map": "/Computer-Engineering-Test/static/js/main.092e6c14.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8da37da6.js"
+    "static/js/main.092e6c14.js"
   ]
 }
