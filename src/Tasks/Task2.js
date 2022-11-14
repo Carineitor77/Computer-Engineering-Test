@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import {Container} from 'react-bootstrap';
 
+import photo from '../photo/task2.png';
+
 const Task2 = () => {
     const [a, setA] = useState(false);
     const [b, setB] = useState(false);
@@ -19,7 +21,7 @@ const Task2 = () => {
 
     return (
         <Container>
-            <img src="../src/photo/task2.png" alt="Task 2"></img><br/>
+            <img src={photo} alt="Task 2"></img><br/>
             <label>A:</label>
             <input className="form-check-input" type="checkbox" 
                 onChange={(e) => setA(a => e.target.checked )}/>

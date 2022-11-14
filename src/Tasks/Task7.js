@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import {Container} from 'react-bootstrap';
 
+import photo from '../photo/task7.png';
+
 const Task7 = () => {
     const [uvh, setUvh] = useState();
     const [uvuh, setUvuh] = useState();
@@ -13,7 +15,7 @@ const Task7 = () => {
 
     return (
         <Container>
-            <img src="../src/photo/task7.png" alt="Task 7"></img><br/>
+            <img src={photo} alt="Task 7"></img><br/>
             <div className="form-group">
                 <input type="number" placeholder="Uвх" className="form-control" 
                     onChange={(e) => setUvh(uvh => e.target.value)}/>
