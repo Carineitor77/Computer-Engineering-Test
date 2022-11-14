@@ -27,7 +27,7 @@ const Task12 = () => {
 
     return (
         <Container>
-            <img src="./photo/task12.png" alt="Task 12"></img><br/>
+            <img src="../src/photo/task12.png" alt="Task 12"></img><br/>
             <label>X1</label>
             <input className="form-check-input" type="checkbox" 
                 onChange={(e) => setF(f => e.target.checked )}/>

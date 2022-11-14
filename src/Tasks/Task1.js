@@ -16,7 +16,7 @@ const Task1 = () => {
 
     return (
         <Container>
-            <img src="./photo/task1.png" alt="Task 1"></img><br/>
+            <img src="../src/photo/task1.png" alt="Task 1"></img><br/>
             <div className="form-group">
                 <input type="number" placeholder="Uж" className="form-control" 
                     onChange={(e) => setUz(uz => e.target.value)}/>
