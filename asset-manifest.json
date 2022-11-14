@@ -1,13 +1,29 @@
 {
   "files": {
     "main.css": "/Computer-Engineering-Test/static/css/main.073c9b0a.css",
-    "main.js": "/Computer-Engineering-Test/static/js/main.67beaeff.js",
+    "main.js": "/Computer-Engineering-Test/static/js/main.8da37da6.js",
+    "static/media/task16.png": "/Computer-Engineering-Test/static/media/task16.5b704608334becf2ddd4.png",
+    "static/media/task13.png": "/Computer-Engineering-Test/static/media/task13.5a14d9568e2b80f5be70.png",
+    "static/media/task15.png": "/Computer-Engineering-Test/static/media/task15.12fd8dc185f25d65ebb5.png",
+    "static/media/task14.png": "/Computer-Engineering-Test/static/media/task14.0235445b3e367451fdac.png",
+    "static/media/task5.png": "/Computer-Engineering-Test/static/media/task5.bbdb80d9282e0f13b610.png",
+    "static/media/task12.png": "/Computer-Engineering-Test/static/media/task12.3e8bdf6dcadbfddb392f.png",
+    "static/media/task11.png": "/Computer-Engineering-Test/static/media/task11.02ff7cee3e3c1a24d4d0.png",
+    "static/media/task1.png": "/Computer-Engineering-Test/static/media/task1.c3b8042dde8678cb1f6c.png",
+    "static/media/task9.png": "/Computer-Engineering-Test/static/media/task9.c079288185b2ec8a5e13.png",
+    "static/media/task10.png": "/Computer-Engineering-Test/static/media/task10.276148e28d1041ece021.png",
+    "static/media/task7.png": "/Computer-Engineering-Test/static/media/task7.6a1b31c31bf28cc9a27d.png",
+    "static/media/task6.png": "/Computer-Engineering-Test/static/media/task6.bfba5b35097d73295294.png",
+    "static/media/task8.png": "/Computer-Engineering-Test/static/media/task8.866c1ad1fb273fd5c96a.png",
+    "static/media/task3.png": "/Computer-Engineering-Test/static/media/task3.dcbe9879b0fe61d66b65.png",
+    "static/media/task4.png": "/Computer-Engineering-Test/static/media/task4.b6723e4aad4b423aab28.png",
+    "static/media/task2.png": "/Computer-Engineering-Test/static/media/task2.0b37fd135a31c8d00f6b.png",
     "index.html": "/Computer-Engineering-Test/index.html",
     "main.073c9b0a.css.map": "/Computer-Engineering-Test/static/css/main.073c9b0a.css.map",
-    "main.67beaeff.js.map": "/Computer-Engineering-Test/static/js/main.67beaeff.js.map"
+    "main.8da37da6.js.map": "/Computer-Engineering-Test/static/js/main.8da37da6.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.67beaeff.js"
+    "static/js/main.8da37da6.js"
   ]
 }
